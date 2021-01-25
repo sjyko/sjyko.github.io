@@ -124,7 +124,7 @@ To make numbers higher than seven, consonants should be chained to write digits.
 
 ## Appendix: Useful Resources
 
-The sjyko website can be found at [sjyko.tk](https://sjyko.tk). If you would like to talk in or abou sjyko with other people, the sjyko Discord
+The sjyko website can be found at [sjyko.github.io](https://sjyko.github.io). If you would like to talk in or abou sjyko with other people, the sjyko Discord
 can be found [here](https://discord.gg/exYSY7wu7h).
 
 ## Appendix: Lexicon
