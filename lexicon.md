@@ -1,4 +1,5 @@
 ```
+---
 cyj: p. The amount of the built object.
 vyc: p. The physical size of the built object.
 kaj: p. The timespan of or temporal size of the built object.
@@ -112,4 +113,16 @@ voj: p. The toe of the built object.
 roc: p. The torso of the built object.
 cyc: p. The category or class of the built object.
 osy: p. The process of learning for the built object.
+rov: a. Amused, funny
+dyv: p. The language of the built object.
+coy: p. The occupation or job of the built object.
+kyv: p. The lifestyle of the built object.
+sok: p. Something seen by the built object.
+rya: p. Something heard by the built object.
+ado: p. The thoughts of the built object.
+soo: p. The hope of the built object.
+ory: a. Real, existing
+roo: p. The progess towards completion of the built object.
+vyp: a. Complete
+aso: a. Incomplete
 ```
