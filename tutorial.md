@@ -135,6 +135,7 @@ A dictionary will be forthcoming using the current lexicon. Check the sjyko webs
 
 (Note about notation: p. means the listed word is a point, and a. an attribute.)
 
+```
 cyj: p. The amount of the built object.
 vyc: p. The physical size of the built object.
 kaj: p. The timespan of or temporal size of the built object.
@@ -224,3 +225,4 @@ pap: a. Rational
 kac: a. Normal, conventional
 pak: p. The structure or organization of the built object.
 oko: p. The tendency or structure of the built object.
+```
