@@ -46,7 +46,7 @@ are each 3 letters long, and they can be chained to produce new points: if point
 the meaning would be `musical sound`, ie. `song`. Points may refer to something called the 'built object'. This simply means the object
 described so far by any other tags applied and all points interpreted so far. When points are being interpreted left to right, each point
 changes the built object sequentially, so what exactly this is may change as one reads a word. Let's look at an example: suppose I had a point
-meaning `the parent of the built object` and one meaning `the name of the built object. Imagine our sentence had this tag, and another tag
+meaning `the parent of the built object` and one meaning `the name of the built object`. Imagine our sentence had this tag, and another tag
 expressing that the object was red. This tag would then be interpreted as `the name of the parent of this red object`. The built object starts
 out as simply a combination of all other tags in a sentence, so when interpreting `the parent of the built object`, the built object is just
 something with the tag of red. Then we apply the next point in the word, and get `the name of the built object.`  Now the built object refers
