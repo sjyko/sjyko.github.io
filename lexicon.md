@@ -1,5 +1,4 @@
 ```
----
 cyj: p. The amount of the built object.
 vyc: p. The physical size of the built object.
 kaj: p. The timespan of or temporal size of the built object.
