@@ -82,7 +82,7 @@ value what the vlaue of that particular trait is. A tag type just describes *how
   An object tag is written as a point, followed by a low seperator, followed by the object particle `sy`, another optional low seperator, and
   then an object or a point. The object should be terminated with a middle seperator so that you can have tags applied to the parent object
   after the object tag.
-* Enumerated tags. These are like object tags, but instead of allowing any object, they specify a choice between several objects. This may not
+* Enumerated tags. They use the particle `ky`.  These are like object tags,, but instead of allowing any object, they specify a choice between several objects. This may not
   seem useful at first, but when you get into asking questions (see below), its purpose becomes evident. An enumerated tag is written as a
   point, followed by an optional low seperator, and then any number (at least 1) of points seperated by low seperators. Then, there should be
   a low seperator, the enumeration particle ky, another optional low seperator, and the value. The value can be any of the given sub-points.
